@@ -1,4 +1,4 @@
-TeamNumber15 
+Team 15 
 
 Project Title: File Synchronization Tool
 
